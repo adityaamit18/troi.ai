@@ -31,7 +31,7 @@ Contributions to enhance the functionality, accuracy, or expand the knowledge ba
 
 MIT License
 
-Copyright (c) 2024 Prathamesh Desai
+Copyright (c) 2024 Aditya Amit Trivedi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
